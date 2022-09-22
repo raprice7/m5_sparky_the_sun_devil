@@ -57,6 +57,7 @@ nav >ul > li > a:hover{
 }
 main{
     background-color: #fff;
+    padding: 24px;
 }
 main a{
     color: #8c1d40;
